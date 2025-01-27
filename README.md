@@ -1,2 +1,3 @@
-# Moj projekt GIT
-linia testowa
+#Moj projekt GIT
+
+
